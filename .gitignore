@@ -1,1 +1,10 @@
-vivado/*
+*
+
+!/doc/*
+!/ip_core/**/*.xci
+!/ip_core/**/*.coe
+
+!/rtl/*
+!/testbench/*
+
+!README.md
