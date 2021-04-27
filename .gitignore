@@ -1,8 +1,1 @@
 vivado/*
-
-ip_core/*
-!ip_core/**/*.xci
-!ip_core/**/*.coe
-
-# *.xci
-# *.coe
